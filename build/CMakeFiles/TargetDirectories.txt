@@ -1,0 +1,3 @@
+/home/jayant-parashar/projects/build/CMakeFiles/EfficientBrowser.dir
+/home/jayant-parashar/projects/build/CMakeFiles/edit_cache.dir
+/home/jayant-parashar/projects/build/CMakeFiles/rebuild_cache.dir
